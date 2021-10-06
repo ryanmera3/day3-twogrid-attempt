@@ -1,0 +1,24 @@
+.bg-blue {
+  background: #3079AB;
+  color: white;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
+
+.d-flex{
+  display: flex;
+  flex-direction: column;
+}
+
+.grow{
+  flex-grow:1 ;
+}
+
+.bg-grey{
+  background-color: hsl(0, 4%, 77%);
+}
